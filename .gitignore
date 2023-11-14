@@ -1,0 +1,15 @@
+.DS_Store
+/node_modules/
+coverage/
+package-lock.json
+lib/
+# /example/
+
+build
+
+dist
+
+.vscode
+.VSCodeCounter
+.env.*
+.env.local
